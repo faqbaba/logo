@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+   .button{
+    margin-top: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+  
+
+   
+   }
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.first{
+  margin-right: 300px;
+  text-align: center;
+}
+.logo{
+  height: 250px;
+  width: 250px;
+  margin-left: 50px;
+  
+}
+
+body{
+  background-image: url(logo\ faq.JPG);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+b{
+  color: brown;
+
+}
+p{
+  color: gray;
+  font-size: 20px;
+}
+.service{
+  border-width: 70px;
+  border-radius: 5px;
+  border: 3px solid black;
+
+}
+h1{
+  color: blue;
+ font-weight: 800;
+ 
+  font-family: 'Courier New', Courier, monospace;
+}
+h2{
+  color: brown;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
